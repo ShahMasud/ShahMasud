@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shah Masood
+- 👀 I’m interested in solving technological problems. 
+- 🌱 I’m currently working as a ReactJs developer at Storak Digital Lahore.
+- 💞️ I’m trying continuously to contribute more and more especially to the company I am currently working in and to all the globe with open source projects.
+- 📫 you can reach me at: shah83931@gmail.com
